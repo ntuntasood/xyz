@@ -1,0 +1,291 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1180" measuredH="1445" mockupW="1180" mockupH="1431">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="14" w="1180" h="1431" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>XYZ%20-%20Klean%20Kanteen%0Ahttp%3A//xyz.com/klean_kanteen</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="178" y="105" w="82" h="-1" measuredW="82" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>XYZ</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MenuBar" x="178" y="163" w="820" h="29" measuredW="443" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Arts%20%26%20Crafts%2C%20Accessories%2C%20Ornaments%2C%20Tools%2C%20Miscellaneous</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SearchBox" x="319" y="108" w="452" h="-1" measuredW="120" measuredH="37" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <state>up</state>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::ButtonBar" x="831" y="111" w="167" h="31" measuredW="161" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Upload%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::StickyNote" x="655" y="625" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="178" y="376" w="115" h="107" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Title" x="308" y="376" w="-1" h="-1" measuredW="269" measuredH="43" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Klean%20Kanteen</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Image" x="178" y="220" w="820" h="150" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Paragraph" x="308" y="419" w="523" h="80" measuredW="275" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Back%20in%202002%2C%20there%20were%20no%20stainless%20steel%20water%20bottles%20for%20personal%20hydration%2C%20and%20the%20health%20and%20environmental%20issues%20linked%20to%20plastic%20use%20were%20not%20widely%20known.%20Seeing%20the%20issues%20early%20and%20clearly%2C%20Robert%20Seals%2C%20the%20inventor%20and%20founder%20of%20Klean%20Kanteen%AE%2C%20began%20cobbling%20together%20the%20first%20prototype%20with%20things%20he%20bought%20at%20the%20local%20hardware%20store%20in%20Chico%2C%20California.</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Button" x="848" y="381" w="150" h="33" measuredW="131" measuredH="33" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Subscribe</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="60" y="20" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="890" y="423" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>19238%20subscribers</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="938" y="449" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>928%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Icon" x="178" y="490" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Image" x="178" y="553" w="414" h="278" measuredW="77" measuredH="79" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::SubTitle" x="612" y="554" w="-1" h="-1" measuredW="321" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Klean%20Kanteen%20Sport%20Cap%203.0</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="612" y="588" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="764" y="588" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::SubTitle" x="848" y="581" w="-1" h="-1" measuredW="89" measuredH="35" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>32</size>
+        <text>%244.95</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Paragraph" x="612" y="643" w="386" h="128" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>It%20may%20look%20somewhat%20familiar%2C%20but%20don%27t%20be%20fooled.%20We%20have%20completely%20re-designed%20our%20sport%20cap%20with%20a%20soft%20silicone%20spout%20and%20better%20valve.%20The%20results%20are%20impressive%3A%20quieter%20performance%2C%20better%20leak%20resistance%2C%2025%25%20higher%20flow%20rate%2C%20and%20more%20comfortable%20to%20swig%20from%21%20We%u2019ve%20kept%20all%20the%20features%20you%20love%3B%20dishwasher%20safe%2C%20attachment%20loop%2C%20and%20one-handed%20operation.%20Oh%2C%20and%20it%20is%20also%20available%20in%20green%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::SubTitle" x="612" y="616" w="131" h="-1" measuredW="124" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Icon" x="531" y="846" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Icon" x="555" y="846" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Icon" x="579" y="846" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Icon" x="603" y="846" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Icon" x="627" y="846" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DotIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::SubTitle" x="178" y="885" w="325" h="-1" measuredW="307" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Popular%20from%20Klean%20Kanteen</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Link" x="916" y="889" w="-1" h="-1" measuredW="82" measuredH="19" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>view%20all%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Image" x="178" y="927" w="263" h="136" measuredW="77" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Paragraph" x="178" y="1069" w="263" h="33" measuredW="275" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Klean%20Kanteen%20Stainless%20Steel%20Bottle%20with%20Loop%20Cap</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="457" y="927" w="263" h="136" measuredW="77" measuredH="79" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Image" x="735" y="927" w="263" h="136" measuredW="77" measuredH="79" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Paragraph" x="457" y="1069" w="263" h="33" measuredW="275" measuredH="80" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Klean%20Kanteen%20Stainless%20Unibody%20Bamboo%20Cap</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Paragraph" x="735" y="1069" w="263" h="17" measuredW="275" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Kleen%20Kanteen%20All%20Stainless%20Loop%20Cap</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="178" y="1102" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="457" y="1102" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="735" y="1086" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="374" y="1102" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Label" x="655" y="1102" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="933" y="1086" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Image" x="178" y="1138" w="263" h="136" measuredW="77" measuredH="79" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Paragraph" x="178" y="1280" w="263" h="33" measuredW="275" measuredH="80" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Klean%20Kanteen%20Stainless%20Steel%20Bottle%20with%20Loop%20Cap</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Image" x="457" y="1138" w="263" h="136" measuredW="77" measuredH="79" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Image" x="735" y="1138" w="263" h="136" measuredW="77" measuredH="79" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Paragraph" x="457" y="1280" w="263" h="33" measuredW="275" measuredH="80" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Klean%20Kanteen%20Stainless%20Unibody%20Bamboo%20Cap</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Paragraph" x="735" y="1280" w="263" h="17" measuredW="275" measuredH="80" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Kleen%20Kanteen%20All%20Stainless%20Loop%20Cap</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Label" x="178" y="1313" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="457" y="1313" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Label" x="735" y="1297" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>uploaded%20on%2007-20-14</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="374" y="1313" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Label" x="655" y="1313" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Label" x="933" y="1297" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>1002%20prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Icon" x="236" y="490" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GoogleIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Icon" x="207" y="490" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,106 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1180" measuredH="960" mockupW="1180" mockupH="960">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1180" h="960" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>XYZ%20-%20Tools%0Ahttp%3A//xyz.com/tools</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="178" y="105" w="82" h="-1" measuredW="82" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>XYZ</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::MenuBar" x="178" y="163" w="820" h="29" measuredW="443" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>Arts%20%26%20Crafts%2C%20Accessories%2C%20Ornaments%2C%20Tools%2C%20Miscellaneous</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SearchBox" x="319" y="108" w="452" h="-1" measuredW="120" measuredH="37" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <state>up</state>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::ButtonBar" x="831" y="111" w="167" h="31" measuredW="161" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Upload%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::FieldSet" x="178" y="223" w="593" h="234" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Featured%20Prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Canvas" x="565" y="229" w="206" h="228" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::FieldSet" x="178" y="473" w="593" h="295" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Top%20Prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::FieldSet" x="786" y="229" w="201" h="539" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Top%20Creators</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="874" y="253" w="92" h="-1" measuredW="88" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>%5BKlean%20Kanteen%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="793" y="253" w="73" h="47" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="874" y="274" w="69" h="-1" measuredW="75" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>92381%20Prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Paragraph" x="793" y="306" w="186" h="49" measuredW="275" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>The%20original%20stainless%20steel%20solutions%20company.%20Bottles%2C%20mugs%2C%20cups%2C%20tumblers%20and%20food%20containers.%20High-quality%2C%20durable%2C%20re-usables%20last%20a%20lifetime.</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="874" y="371" w="92" h="-1" measuredW="88" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>%5BKlean%20Kanteen%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="793" y="371" w="73" h="47" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="874" y="392" w="69" h="-1" measuredW="75" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>92381%20Prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Paragraph" x="793" y="424" w="186" h="49" measuredW="275" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>The%20original%20stainless%20steel%20solutions%20company.%20Bottles%2C%20mugs%2C%20cups%2C%20tumblers%20and%20food%20containers.%20High-quality%2C%20durable%2C%20re-usables%20last%20a%20lifetime.</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="874" y="488" w="92" h="-1" measuredW="88" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>%5BKlean%20Kanteen%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="793" y="488" w="73" h="47" measuredW="77" measuredH="79" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="874" y="509" w="69" h="-1" measuredW="75" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>92381%20Prints</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Paragraph" x="793" y="541" w="186" h="49" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>The%20original%20stainless%20steel%20solutions%20company.%20Bottles%2C%20mugs%2C%20cups%2C%20tumblers%20and%20food%20containers.%20High-quality%2C%20durable%2C%20re-usables%20last%20a%20lifetime.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

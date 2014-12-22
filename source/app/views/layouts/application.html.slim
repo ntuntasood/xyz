@@ -1,0 +1,44 @@
+doctype html
+html
+  head
+    title Source
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+
+  body
+    #sans-footer
+      header
+        a#logo href="/" XYZ
+        form action="/search"
+          input#search.rounded [type="search" name="q"
+          placeholder="Search" value=params[:q]]
+
+        #login.rounded
+          - if signed_in?
+            = link_to current_user.username, 'dashboard', class: 'button'
+            = link_to 'logout', destroy_user_session_path,
+            method: :delete, class: 'button'
+          - else
+            = link_to 'signup', new_user_registration_path, class: 'button'
+            = link_to 'login', new_user_session_path, class: 'button'
+
+      p = notice
+      p = alert
+
+      #content == yield
+
+    footer.rounded
+      a.rounded#contact href="/contact" contact us
+      #copyright &copy Copyright 2014 XYZ, LLC. All rights reserved.
+      a#privacy href="/privacy" PRIVACY STATEMENT
+      a#terms href="/terms" TERMS OF SERVICE
+      #social-buttons
+        a href="https://www.facebook.com/"
+          img.social src=(asset_path 'facebook128.png')
+        a href="https://twitter.com/?lang=en"
+          img.social src=(asset_path 'twitter128.png')
+        a href="https://www.linkedin.com/"
+          img.social src=(asset_path 'linkedin128.png')
+        a href="https://plus.google.com/"
+          img.social src=(asset_path 'google_plus128.png')

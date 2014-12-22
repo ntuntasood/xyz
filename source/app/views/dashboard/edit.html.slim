@@ -1,0 +1,6 @@
+= form_tag('/dashboard/edit') do
+  = text_field_tag :name, @c.name, placeholder: 'no name provided'
+  = text_area :c, :description
+  = file_field_tag 'banner'
+  = file_field_tag 'icon'
+  = submit_tag 'submit'

@@ -1,0 +1,142 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+
+@import 'vars';
+
+$margin-width: 1000px;
+$footer-height: 200px;
+
+.rounded {
+    border-radius: 5px;
+}
+
+* {
+    font-family: "Arial", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+// sticky footer
+html, body {
+    height: 100%;
+}
+
+#sans-footer {
+    min-height: 100%;
+}
+
+#content {
+    padding-bottom: $footer-height;
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: $footer-height;
+    margin-top: -$footer-height;
+
+    $side-padding: 20px;
+    padding: 0px $side-padding;
+    width: $margin-width - 2 * $side-padding;
+    background: $secondary-color;
+}
+
+
+body {
+    width: $margin-width;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    height: 90px;
+}
+
+#logo {
+    text-decoration: none;
+    float: left;
+    font-size: 70px;
+    color: $secondary-color;
+}
+
+#search {
+    float: left;
+    margin: 20px 0px 0px 30px;
+    font-size: 30px;
+    width: 550px;
+    border: 1px solid gray;
+}
+
+.button {
+    @include background-transition;
+    text-decoration: none;
+    float: left;
+    padding: 5px 10px;
+    color: white;
+    background: $secondary-color;
+}
+.button:hover {
+    background: $primary-color;
+}
+.selected {
+    color: $primary-color;
+    pointer-events: none;
+    cursor: default;
+}
+
+#login {
+    float: right;
+    position: relative;
+    top: 24px;
+    overflow: hidden;
+}
+
+#contact {
+    @include background-transition;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 18px;
+    float: left;
+    padding: 7px 12px;
+    color: white;
+    background: $tertiary-color;
+}
+#contact:hover {
+    background: #09f;
+}
+
+#copyright, #privacy, #terms {
+    clear: both;
+    float: left;
+    color: $primary-color;
+    margin-top: 10px;
+}
+#privacy, #terms {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#social-buttons {
+    clear: both;
+    float: right;
+    margin-top: 35px;
+}
+.social {
+    width: 24px;
+    margin-left: 5px;
+}
