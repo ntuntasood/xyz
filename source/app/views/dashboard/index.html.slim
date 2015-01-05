@@ -1,5 +1,9 @@
-- if current_user.creator and current_user.creator.active
-  = link_to 'disable uploading', 'creators/disable', class: 'db-button', method: :post
-  = link_to 'edit creator profile', 'dashboard/edit', class: 'db-button'
-- else
-  = link_to 'enable uploading', 'creators/enable', class: 'db-button', method: :post
+.left
+  - if current_user.creator and current_user.creator.active
+    = link_to 'disable uploading', 'creators/disable',
+    method: :post, class: 'db-button rounded'
+    = link_to 'edit creator profile', 'dashboard/edit',
+    class: 'db-button rounded'
+  - else
+    = link_to 'enable uploading', 'creators/enable',
+    method: :post, class: 'db-button rounded'

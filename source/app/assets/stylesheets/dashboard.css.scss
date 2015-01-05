@@ -1,0 +1,50 @@
+@import 'vars';
+
+.left {
+    float: left;
+}
+
+.db-button {
+    @include transition(color);
+    display: block;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    color: white;
+    background: $secondary-color;
+}
+.db-button:hover {
+    color: orange;
+}
+
+
+// edit
+form[action="/dashboard/save"], #more-buttons {
+    float: left;
+    margin-top: 30px;
+}
+
+#more-buttons {
+    margin-left: 30px;
+}
+
+form[action="/dashboard/save"] > * {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#name {
+    padding: 0px 5px;
+    height: 30px;
+    border: 1px solid gray;
+}
+
+#c_description {
+    resize: none;
+    height: 100px;
+    width: 300px;
+    padding: 5px 5px;
+}
+
+#banner::before { content: 'upload banner'; }
+#icon::before   { content: 'upload icon'; }

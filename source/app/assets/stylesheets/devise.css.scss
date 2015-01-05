@@ -20,7 +20,7 @@ $field-height: 30px;
 }
 
 #submit {
-    @include background-transition;
+    @include transition(background);
     float: left;
     padding: 5px 30px;
     font-size: 15px;
@@ -33,7 +33,6 @@ $field-height: 30px;
 #submit:hover {
     background: $primary-color;
 }
-
 
 
 #remember {

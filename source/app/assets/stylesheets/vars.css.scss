@@ -2,8 +2,10 @@ $primary-color: #0c0;
 $secondary-color: #555;
 $tertiary-color: #05f;
 
-@mixin background-transition {
-    transition: background 0.2s ease-in-out;
-    -moz-transition: background 0.2s ease-in-out;
-    -webkit-transition: background 0.2s ease-in-out;
+$rounding: 5px;
+
+@mixin transition($type) {
+    transition: $type 0.2s ease-in-out;
+    -moz-transition: $type 0.2s ease-in-out;
+    -webkit-transition: $type 0.2s ease-in-out;
 }

@@ -1,6 +1,15 @@
-= form_tag('/dashboard/edit') do
-  = text_field_tag :name, @c.name, placeholder: 'no name provided'
-  = text_area :c, :description
-  = file_field_tag 'banner'
-  = file_field_tag 'icon'
-  = submit_tag 'submit'
+= form_tag('/dashboard/save', multipart: true) do
+  = text_field_tag :name, @c.name, placeholder: 'no name provided', class: 'rounded', disabled: true
+  = text_area :c, :description, class: 'rounded'
+  = file_field_tag 'banner', class: 'upload'
+  = file_field_tag 'icon', class: 'upload'
+  = submit_tag 'save', id: 'submit', class: 'rounded'
+
+#more-buttons
+  - unless @c.banner.nil?
+    = link_to 'remove current banner', '/dashboard/remove_banner',
+    method: :post, class: 'db-button rounded'
+
+  - unless @c.icon.nil?
+    = link_to 'remove current icon', '/dashboard/remove_icon',
+    method: :post, class: 'db-button rounded'

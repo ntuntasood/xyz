@@ -8,10 +8,12 @@ Rails.application.routes.draw do
 
   get 'dashboard' => 'dashboard#index'
   get 'dashboard/edit' => 'dashboard#edit'
+  post 'dashboard/save' => 'dashboard#save'
+  post 'dashboard/remove_banner' => 'dashboard#remove_banner'
+  post 'dashboard/remove_icon' => 'dashboard#remove_icon'
 
   get 'search' => 'search#index'
   get 'login' => 'login#index'
-
   get 'contact' => 'contact#index'
   get 'privacy' => 'privacy#index'
   get 'terms' => 'terms#index'
