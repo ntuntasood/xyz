@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141128180922) do
+ActiveRecord::Schema.define(version: 20150115223038) do
 
   create_table "active_admin_comments", force: true do |t|
     t.string   "namespace"
@@ -56,6 +56,15 @@ ActiveRecord::Schema.define(version: 20141128180922) do
     t.string   "picture_five"
     t.integer  "num_prints"
     t.float    "price"
+    t.float    "min_x"
+    t.float    "min_y"
+    t.float    "min_z"
+    t.string   "materials"
+    t.boolean  "color_supported"
+    t.string   "recommended_printers"
+    t.float    "resolution"
+    t.float    "tolerance"
+    t.integer  "creator_id"
   end
 
   create_table "users", force: true do |t|

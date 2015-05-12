@@ -1,11 +1,17 @@
-= form_tag('/dashboard/save', multipart: true) do
-  = text_field_tag :name, @c.name, placeholder: 'no name provided', class: 'rounded', disabled: true
-  = text_area :c, :description, class: 'rounded'
-  = file_field_tag 'banner', class: 'upload'
-  = file_field_tag 'icon', class: 'upload'
-  = submit_tag 'save', id: 'submit', class: 'rounded'
+= link_to '< back', '/dashboard', class: 'db-button rounded left'
+.spacing-50
 
-#more-buttons
+= form_tag('/dashboard/save', multipart: true) do
+  .left.clear
+    = text_field_tag :name, @c.name, placeholder: 'no name provided', class: 'rounded', disabled: true
+    = text_area :c, :description, class: 'rounded'
+    = file_field_tag 'banner', class: 'upload'
+    = file_field_tag 'icon', class: 'upload'
+    .spacing-10
+
+    = submit_tag 'save', id: 'submit', class: 'rounded'
+
+#more-buttons.left
   - unless @c.banner.nil?
     = link_to 'remove current banner', '/dashboard/remove_banner',
     method: :post, class: 'db-button rounded'

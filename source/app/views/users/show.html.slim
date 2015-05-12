@@ -1,5 +1,11 @@
-.ratio-banner = image_tag @c.banner, class: 'framed'
+#creator-info
+  - unless @c.banner.nil?
+    #banner.ratio-banner = image_tag @c.banner, class: 'framed rounded bordered'
 
-#avatar.ratio-icon = image_tag @c.icon, class: 'framed'
+  - unless @c.icon.nil?
+    #avatar.ratio-icon = image_tag @c.icon, class: 'framed rounded bordered'
 
-span = @c.name
+  #text
+    span = @c.name
+    i = "since #{@c.created_at.strftime("%m/%d/%Y")}"
+    p = @c.description

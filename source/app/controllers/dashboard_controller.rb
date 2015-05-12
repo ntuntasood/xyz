@@ -15,6 +15,17 @@ class DashboardController < ApplicationController
     end
   end
 
+  def upload
+    c = current_user.creator
+    if c and c.active
+      @materials = ['ABS', 'SLS nylon', 'metal']
+      @printers = ['MakerBot', 'Cubify', 'XYZprinting', 'HP', 'Ultimaker 2']
+    else
+      flash[:alert] = 'uploading must be enabled first'
+      redirect_to action: 'index'
+    end
+  end
+
   def save
     u = current_user
     c = u.creator

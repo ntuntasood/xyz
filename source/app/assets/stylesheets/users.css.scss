@@ -1,4 +1,26 @@
-#avatar {
-    width: 15%;
-    float: left;
+#creator-info {
+
+    #banner {
+        margin-bottom: 10px;
+    }
+
+    #avatar {
+        width: 15%;
+        float: left;
+        margin-right: 10px;
+    }
+
+    #text {
+
+        span {
+            font-size: 24px;
+            color: Orange;
+            margin-right: 10px;
+        }
+
+        i { color: DarkGray;  }
+        p { padding-top: 5px; }
+
+    }
+
 }

@@ -5,7 +5,7 @@ class CreatorsController < ApplicationController
     if c
       c.update(active: true)
     else
-      c = Creator.create(name: current_user.username, active: true)
+      current_user.creator = Creator.create(name: current_user.username, active: true)
     end
     redirect_to :controller => 'dashboard'
   end

@@ -20,9 +20,13 @@
 $margin-width: 1000px;
 $footer-height: 200px;
 
-.rounded {
-    border-radius: $rounding;
-}
+.left     { float: left;  }
+.right    { float: right; }
+.clear    { clear: both;  }
+.none     { clear: none;  }
+
+.bordered { border: 1px solid LightGray; }
+.rounded  { border-radius: $rounding; }
 
 .upload {
     position: relative;
